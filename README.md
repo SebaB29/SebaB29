@@ -10,6 +10,12 @@
 > Soy un estudiante de las carreras Ingeniería en Informática y Licenciatura 
 > en Análisis de Sistemas en la Universidad de Buenos Aires.
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/sebastianbrizuela29/">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## Programming Languages 👨‍💻
 ![C++ icon](https://skillicons.dev/icons?i=cpp)
 ![Python icon](https://skillicons.dev/icons?i=python)
