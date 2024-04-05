@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src = "https://github.com/SebaB29/SebaB29/blob/main/1yft.gif" 
-    alt = "gif pc en llamas" width="550px" height="300px">
+    alt = "gif pc en llamas" width="450px" height="200px">
 </p>
 
 
