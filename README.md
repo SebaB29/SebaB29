@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src = "https://github.com/SebaB29/SebaB29/blob/main/1yft.gif" 
+  <img src = "img\1yft.gif" 
     alt = "gif pc en llamas" width="450px" height="200px">
 </p>
 
@@ -24,6 +24,7 @@
 ![Git icon](https://skillicons.dev/icons?i=git)
 ![GitHub icon](https://skillicons.dev/icons?i=github)
 ![Vscode icon](https://skillicons.dev/icons?i=vscode)
+![Google Colab icon](img/icons8-google-colab-48.png)
 
 ## Projects 🗃
 <details>
@@ -62,17 +63,13 @@
 </ul>
 </details>
 
-<!--
-**SebaB29/SebaB29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <style>
+    .menciones {
+      font-size: 10px;
+    }
+  </style>
+  <a class="menciones" target="_blank" href="https://icons8.com/icon/lOqoeP2Zy02f/google-colab">Google Colab</a> 
+  <span class="menciones"> icon by </span>
+  <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
+</div>
