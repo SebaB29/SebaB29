@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src = "img\1yft.gif" 
+  <img src = "https://github.com/SebaB29/SebaB29/blob/main/img/1yft.gif" 
     alt = "gif pc en llamas" width="450px" height="200px">
 </p>
 
