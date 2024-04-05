@@ -63,13 +63,4 @@
 </ul>
 </details>
 
- <div>
-  <style>
-    .menciones {
-      font-size: 10px;
-    }
-  </style>
-  <a class="menciones" target="_blank" href="https://icons8.com/icon/lOqoeP2Zy02f/google-colab">Google Colab</a> 
-  <span class="menciones"> icon by </span>
-  <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
-</div>
+###### <a class="menciones" target="_blank" href="https://icons8.com/icon/lOqoeP2Zy02f/google-colab">Google Colab</a> <span class="menciones"> icon by </span> <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
