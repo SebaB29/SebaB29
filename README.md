@@ -31,12 +31,12 @@
 <summary><h3>Data Science 📊</h3></summary>
 <ul>
   <li>
-    <a href="https://github.com/SebaB29/Snake">
+    <a href="https://github.com/SebaB29/ReservasHoteles">
             ReservasHoteles
      </a>
   </li>
   <li>
-    <a href="https://github.com/SebaB29/Andypolis">
+    <a href="https://github.com/SebaB29/CriticasPeliculas">
             CriticasPeliculas
      </a>
   </li>
