@@ -28,6 +28,22 @@
 
 ## Projects 🗃
 <details>
+<summary><h3>Data Science 📊</h3></summary>
+<ul>
+  <li>
+    <a href="https://github.com/SebaB29/Snake">
+            ReservasHoteles
+     </a>
+  </li>
+  <li>
+    <a href="https://github.com/SebaB29/Andypolis">
+            CriticasPeliculas
+     </a>
+  </li>
+</ul>
+</details>
+
+<details>
 <summary><h3>Games 🎮</h3></summary>
 <ul>
   <li>
