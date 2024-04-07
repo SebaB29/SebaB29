@@ -5,7 +5,6 @@
     alt = "gif pc en llamas" width="450px" height="200px">
 </p>
 
-
 ## About me 🕵️‍♂
 > Soy un estudiante de las carreras Ingeniería en Informática y Licenciatura 
 > en Análisis de Sistemas en la Universidad de Buenos Aires.
@@ -29,54 +28,22 @@
 ## Projects 🗃
 <details>
 <summary><h3>Data Science 📊</h3></summary>
-<ul>
-  <li>
-    <a href="https://github.com/SebaB29/ReservasHoteles">
-            ReservasHoteles
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/CriticasPeliculas">
-            CriticasPeliculas
-     </a>
-  </li>
-</ul>
+
+  - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
+  - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
+
 </details>
 
 <details>
 <summary><h3>Games 🎮</h3></summary>
-<ul>
-  <li>
-    <a href="https://github.com/SebaB29/Snake">
-            Snake
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/Andypolis">
-            Andypolis
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/TATETI">
-            TATETI
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/Tetris">
-            Tetris
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/Chase">
-            Chase
-     </a>
-  </li>
-  <li>
-    <a href="https://github.com/SebaB29/HangmanGame">
-            Hangman
-     </a>
-  </li>
-</ul>
+  
+  - [Snake](https://github.com/SebaB29/Snake)
+  - [Andypolis](https://github.com/SebaB29/Andypolis)
+  - [TATETI](https://github.com/SebaB29/TATETI)
+  - [Tetris](https://github.com/SebaB29/Tetris)
+  - [Chase](https://github.com/SebaB29/Chase)
+  - [Hangman](https://github.com/SebaB29/HangmanGame)
+
 </details>
 
 #
