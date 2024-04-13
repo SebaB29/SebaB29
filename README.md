@@ -10,7 +10,7 @@
 > en Análisis de Sistemas en la Universidad de Buenos Aires.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sebastianbrizuela29/">
+  <a href="https://www.linkedin.com/in/sbrizuela/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -18,6 +18,7 @@
 ## Programming Languages 👨‍💻
 ![C++ icon](https://skillicons.dev/icons?i=cpp)
 ![Python icon](https://skillicons.dev/icons?i=python)
+![SQL icon](https://github.com/SebaB29/SebaB29/blob/main/img/icons8-configuraci%C3%B3n-de-datos-48.png)
 
 ## Tools 🛠
 ![Git icon](https://skillicons.dev/icons?i=git)
@@ -47,4 +48,4 @@
 </details>
 
 #
-###### <a class="menciones" target="_blank" href="https://icons8.com/icon/lOqoeP2Zy02f/google-colab">Google Colab</a> <span class="menciones"> icon by </span> <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
+###### <span class="menciones"> Some icon by </span> <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
