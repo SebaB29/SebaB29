@@ -48,4 +48,4 @@
 </details>
 
 #
-###### <span class="menciones"> Some icon by </span> <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
+###### <span class="menciones"> Some icons made in </span> <a class="menciones" target="_blank" href="https://icons8.com">Icons8</a>
