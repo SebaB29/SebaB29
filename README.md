@@ -16,6 +16,7 @@
 </div>
 
 ## Programming Languages 👨‍💻
+![C](https://skillicons.dev/icons?i=c)
 ![C++ icon](https://skillicons.dev/icons?i=cpp)
 ![Python icon](https://skillicons.dev/icons?i=python)
 ![SQL icon](https://github.com/SebaB29/SebaB29/blob/main/img/icons8-configuraci%C3%B3n-de-datos-48.png)
