@@ -26,6 +26,7 @@
 ![GitHub icon](https://skillicons.dev/icons?i=github)
 ![Vscode icon](https://skillicons.dev/icons?i=vscode)
 ![Google Colab icon](img/icons8-google-colab-48.png)
+<img src="https://github.com/SebaB29/SebaB29/blob/main/img/blue-prism.jpg" alt="Blue Prism Icon" width=48 height=48>
 
 ## Projects 🗃
 <details>
