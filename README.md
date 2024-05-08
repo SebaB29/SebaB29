@@ -39,11 +39,11 @@
 
 <details>
 <summary><h3>Games 🎮</h3></summary>
-  
-  - [Snake](https://github.com/SebaB29/Snake)
-  - [Andypolis](https://github.com/SebaB29/Andypolis)
-  - [TATETI](https://github.com/SebaB29/TATETI)
+
   - [Tetris](https://github.com/SebaB29/Tetris)
+  - [Andypolis](https://github.com/SebaB29/Andypolis)
+  - [Snake](https://github.com/SebaB29/Snake)
+  - [TATETI](https://github.com/SebaB29/TATETI)
   - [Chase](https://github.com/SebaB29/Chase)
   - [Hangman](https://github.com/SebaB29/HangmanGame)
 
