@@ -34,7 +34,7 @@
 
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
-  - [TrabajoBBDD](https://github.com/SebaB29/TPBaseDeDatos)
+  - [TP-BBDD](https://github.com/SebaB29/TPBaseDeDatos)
 
 </details>
 
@@ -47,6 +47,16 @@
   - [TATETI](https://github.com/SebaB29/TATETI)
   - [Chase](https://github.com/SebaB29/Chase)
   - [Hangman](https://github.com/SebaB29/HangmanGame)
+
+</details>
+
+<details>
+<summary><h3>Others 💼</h3></summary>
+
+  - [TP-AlgortimosyProgramación-I](https://github.com/SebaB29/Algoritmos-y-Progrmacion-I)
+  - [TP-AlgortimosyProgramación-III](https://github.com/SebaB29/Algoritmos-y-Programacion-III)
+  - [TP-SistemasOperativos](https://github.com/SebaB29/TPSistemasOperativos)
+  - [PythonVarios](https://github.com/SebaB29/Python)
 
 </details>
 
