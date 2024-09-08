@@ -34,7 +34,7 @@
 
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
-  - [TP-BBDD](https://github.com/SebaB29/TPBaseDeDatos)
+  - [Titanic](https://github.com/SebaB29/Titanic)
 
 </details>
 
@@ -53,9 +53,8 @@
 <details>
 <summary><h3>Others 💼</h3></summary>
 
-  - [TP-AlgortimosyProgramación-I](https://github.com/SebaB29/Algoritmos-y-Progrmacion-I)
   - [TP-AlgortimosyProgramación-III](https://github.com/SebaB29/Algoritmos-y-Programacion-III)
-  - [TP-SistemasOperativos](https://github.com/SebaB29/TPSistemasOperativos)
+  - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
   - [PythonVarios](https://github.com/SebaB29/Python)
 
 </details>
