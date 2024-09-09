@@ -53,7 +53,7 @@
 <details>
 <summary><h3>Others 💼</h3></summary>
 
-  - [AlgortimosyProgramación-III](https://github.com/SebaB29/Algoritmos-y-Programacion-III)
+  - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos-y-Programacion-III)
   - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
   - [PythonVarios](https://github.com/SebaB29/Python)
 
