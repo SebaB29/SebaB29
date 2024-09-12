@@ -20,13 +20,14 @@
 ![C++ icon](https://skillicons.dev/icons?i=cpp)
 ![Python icon](https://skillicons.dev/icons?i=python)
 ![SQL icon](https://github.com/SebaB29/SebaB29/blob/main/img/icons8-configuraci%C3%B3n-de-datos-48.png)
+<img src="https://github.com/SebaB29/SebaB29/blob/main/img/Microsoft.VisualStudio.Services.Icons.png" alt="Blue Prism Icon" width=48 height=48>
 
 ## Tools 🛠
 ![Git icon](https://skillicons.dev/icons?i=git)
 ![GitHub icon](https://skillicons.dev/icons?i=github)
 ![Vscode icon](https://skillicons.dev/icons?i=vscode)
 ![Google Colab icon](img/icons8-google-colab-48.png)
-<img src="https://github.com/SebaB29/SebaB29/blob/main/img/blue-prism.jpg" alt="Blue Prism Icon" width=48 height=48>
+<img src="https://github.com/SebaB29/SebaB29/blob/main/img/logoSmalltalk.png" alt="Blue Prism Icon" width=48 height=48>
 
 ## Projects 🗃
 <details>
