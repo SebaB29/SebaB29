@@ -36,11 +36,12 @@
 
 ## Projects 🗃
 <details>
-<summary><h3>Data Science 📊</h3></summary>
+<summary><h3>Data Science & Data Analysis 📊</h3></summary>
 
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
   - [Titanic](https://github.com/SebaB29/Titanic)
+  - [CursoDA-IEEE](https://github.com/SebaB29/CursoDA_IEEE)
 
 </details>
 
