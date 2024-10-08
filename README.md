@@ -63,6 +63,7 @@
   - [AlgortimosYProgramación-I](https://github.com/SebaB29/Algoritmos_y_Programacion_I)
   - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos_y_Programacion_III)
   - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
+  - [TeoríaDeAlgoritmos](https://github.com/SebaB29/TeoriaDeAlgortimos)
   - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
 
 </details>
