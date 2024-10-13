@@ -6,8 +6,11 @@
 </p>
 
 ## About me 🕵️‍♂
-> Soy un estudiante de las carreras Ingeniería en Informática y Licenciatura 
-> en Análisis de Sistemas en la Universidad de Buenos Aires.
+
+<p align="justify">
+Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires, con un fuerte interés en el desarrollo de software. Me gusta aprender y trabajar en proyectos que me permitan aplicar mis conocimientos y habilidades en un entorno práctico.
+Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Ciberseguridad</b>, donde busco expandir mis conocimientos y contribuir a soluciones innovadoras. En este perfil, compartiré mis proyectos personales, colaborativos y aquellos que realizo en la facultad.
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sbrizuela/">
