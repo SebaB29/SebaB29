@@ -44,7 +44,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
   - [Titanic](https://github.com/SebaB29/Titanic)
-  - [CursoDA-IEEE](https://github.com/SebaB29/CursoDataAnalysis-IEEE)
+  - [CursoDataAnalysis-IEEE](https://github.com/SebaB29/CursoDataAnalysis-IEEE)
 
 </details>
 
