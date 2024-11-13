@@ -29,14 +29,18 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 </div>
 
 ## Tools 🛠
-<div display="inline">
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" width=48 height=48>
+  <img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>
+</div>
+
+### Code Editors & IDEs 💻
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ Icon" width=48 height=48>
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/GoogleColab_icon.png" alt="Google Colab Icon" width=48 height=48>
-  <img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>
 </div>
 
 ## Projects 🗃
