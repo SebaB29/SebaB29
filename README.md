@@ -76,6 +76,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   - [TeoríaDeAlgoritmos](https://github.com/SebaB29/TeoriaDeAlgortimos)
   - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
   - [CursoSQL-UI](https://github.com/SebaB29/CursoSQL-UI)
+  - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos)
 
 </details>
 
