@@ -46,7 +46,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 
 ## Projects 🗃
 <details>
-<summary><h3>🌐 Web Development</h3></summary>
+<summary><b>🌐 Web Development</b></summary>
 
   - [MyFiubaGymBro](https://github.com/SebaB29/MyFiubaGymBro)
   - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos)
@@ -54,7 +54,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 </details>
 
 <details>
-<summary><h3>📊 Data Science & Data Analysis</h3></summary>
+<summary><b>📊 Data Science & Data Analysis</b></summary>
 
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
@@ -64,7 +64,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 </details>
 
 <details>
-<summary><h3>🎮 Games</h3></summary>
+<summary><b>🎮 Games</b></summary>
 
   - [Tetris](https://github.com/SebaB29/Tetris)
   - [Andypolis](https://github.com/SebaB29/Andypolis)
@@ -76,7 +76,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 </details>
 
 <details>
-<summary><h3>💼 Others</h3></summary>
+<summary><b>💼 Others</b></summary>
 
   - [AlgortimosYProgramación-I](https://github.com/SebaB29/Algoritmos_y_Programacion_I)
   - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos_y_Programacion_III)
