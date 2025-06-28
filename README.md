@@ -50,6 +50,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 
   - [MyFiubaGymBro](https://github.com/SebaB29/MyFiubaGymBro)
   - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos)
+  - [CasinoFIUBA](https://github.com/SebaB29/CasinoFIUBA)
 
 </details>
 
