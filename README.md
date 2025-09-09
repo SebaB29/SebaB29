@@ -21,6 +21,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 ## Programming Languages 👨‍💻
 <div display="inline">
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" width=48 height=48>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=java" alt="Java Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=c" alt="C Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon" width=48 height=48>
