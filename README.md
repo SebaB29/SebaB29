@@ -35,7 +35,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   <img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width=48 height=48>
-  <img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>
+  <!--<img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>-->
 </div>
 
 ### Code Editors & IDEs 💻
