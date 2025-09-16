@@ -84,6 +84,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos_y_Programacion_III)
   - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
   - [TeoríaDeAlgoritmos](https://github.com/SebaB29/TeoriaDeAlgortimos)
+  - [TallerDeProgramación](https://github.com/SebaB29/TallerDeProgramacion)
   - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
   - [CursoSQL-UI](https://github.com/SebaB29/CursoSQL-UI)
   - [RustTheForth](https://github.com/SebaB29/RustTheForth)
