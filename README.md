@@ -1,11 +1,11 @@
-# Hi there 👋
+# 👋 Hi there
 
 <p align="center">
   <img src = "https://github.com/SebaB29/SebaB29/blob/main/img/gifPerfil.gif" 
     alt = "gif pc en llamas" width="450px" height="200px">
 </p>
 
-## About me 🕵️‍♂
+## 🕵️‍♂ About me
 
 <p align="justify">
 Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires, con un fuerte interés en el desarrollo de software. Me gusta aprender y trabajar en proyectos que me permitan aplicar mis conocimientos y habilidades en un entorno práctico.
@@ -18,7 +18,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   </a>
 </div>
 
-## Programming Languages 👨‍💻
+## 👨‍💻 Programming Languages
 <div display="inline">
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust Icon" width=48 height=48>
@@ -29,7 +29,7 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/Smalltalk_icon.png" alt="Smalltalk Icon" width=48 height=48>
 </div>
 
-## Tools 🛠
+## 🛠 Tools
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48>
@@ -38,14 +38,14 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
   <!--<img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>-->
 </div>
 
-### Code Editors & IDEs 💻
+### 💻 Code Editors & IDEs
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ Icon" width=48 height=48>
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/GoogleColab_icon.png" alt="Google Colab Icon" width=48 height=48>
 </div>
 
-## Projects 🗃
+## 🗃 Projects
 <details>
 <summary><b>🌐 Web Development</b></summary>
 
