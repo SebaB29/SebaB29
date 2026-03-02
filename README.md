@@ -8,9 +8,17 @@
 ## 🕵️‍♂ About me
 
 <p align="justify">
-Soy estudiante de Ingeniería Informática en la Universidad de Buenos Aires, con un fuerte interés en el desarrollo de software. Me gusta aprender y trabajar en proyectos que me permitan aplicar mis conocimientos y habilidades en un entorno práctico.
-Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Ciberseguridad</b>, donde busco expandir mis conocimientos y contribuir a soluciones innovadoras. En este perfil, compartiré mis proyectos personales, colaborativos y aquellos que realizo en la facultad.
+🚀 Computer Engineering Student @ University of Buenos Aires (FIUBA)
+
+I am a Computer Engineering student focused on building reliable software with an emphasis on backend development, code quality, and best practices.\
+This profile serves as a documentation of my academic journey at FIUBA, featuring personal research, university coursework, and collaborative projects. My work spans from high-level application logic to low-level systems programming.
+
+* 🛠️ Technical Focus: Backend Architecture, Systems Programming, and Algorithms.
+* ⚙️ Core Principles: Clean code, modularity, and efficient resource management.
+* 🎓 Academic Background: Practical implementations of Operating Systems, Data Structures, and Software Design.
 </p>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sbrizuela/">
@@ -47,16 +55,16 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 
 ## 🗃 Projects
 <details>
-<summary><b>🌐 Web Development</b></summary>
+<summary><b>🌐 Web & Backend Development</b></summary>
 
-  - [MyFiubaGymBro](https://github.com/SebaB29/MyFiubaGymBro)
-  - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos)
-  - [CasinoFIUBA](https://github.com/SebaB29/CasinoFIUBA)
+  - [MyFiubaGymBro](https://github.com/SebaB29/MyFiubaGymBro) (Fullstack)
+  - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos) (Fullstack)
+  - [CasinoFIUBA](https://github.com/SebaB29/CasinoFIUBA) (Backend)
 
 </details>
 
 <details>
-<summary><b>📊 Data Science & Data Analysis</b></summary>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
 
   - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
   - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
@@ -78,17 +86,23 @@ Mis áreas de interés incluyen la <b>Ciencia de Datos</b> y la <b>Cibersegurida
 </details>
 
 <details>
-<summary><b>💼 Others</b></summary>
+<summary><b>⚙️ Systems Programming & Software Architecture</b></summary>
+
+  - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
+  - [RustTheForth](https://github.com/SebaB29/RustTheForth)
+  - [RoomRTC](https://github.com/SebaB29/RoomRTC)
+  - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
+
+</details>
+
+<details>
+<summary><b>🎓 Academic Path & Algorithms</b></summary>
 
   - [AlgortimosYProgramación-I](https://github.com/SebaB29/Algoritmos_y_Programacion_I)
   - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos_y_Programacion_III)
-  - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
   - [TeoríaDeAlgoritmos](https://github.com/SebaB29/TeoriaDeAlgortimos)
   - [TallerDeProgramación](https://github.com/SebaB29/TallerDeProgramacion)
-  - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
   - [CursoSQL-UI](https://github.com/SebaB29/CursoSQL-UI)
-  - [RustTheForth](https://github.com/SebaB29/RustTheForth)
-  - [RoomRTC](https://github.com/SebaB29/RoomRTC)
 
 </details>
 
