@@ -8,14 +8,14 @@
 ## 🕵️‍♂ About me
 
 <p align="justify">
-🚀 Computer Engineering Student @ University of Buenos Aires (FIUBA)
+🚀 Computer Engineering Student @ <b>University of Buenos Aires (FIUBA)</b>
 
 I am a Computer Engineering student focused on building reliable software with an emphasis on backend development, code quality, and best practices.\
 This profile serves as a documentation of my academic journey at FIUBA, featuring personal research, university coursework, and collaborative projects. My work spans from high-level application logic to low-level systems programming.
 
-* 🛠️ Technical Focus: Backend Architecture, Systems Programming, and Algorithms.
-* ⚙️ Core Principles: Clean code, modularity, and efficient resource management.
-* 🎓 Academic Background: Practical implementations of Operating Systems, Data Structures, and Software Design.
+* 🛠️ <b>Technical Focus</b>: Backend Architecture, Systems Programming, and Algorithms.
+* ⚙️ <b>Core Principles</b>: Clean code, modularity, and efficient resource management.
+* 🎓 <b>Academic Background</b>: Practical implementations of Operating Systems, Data Structures, and Software Design.
 </p>
 
 <br>
