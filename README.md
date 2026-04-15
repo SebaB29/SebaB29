@@ -27,6 +27,18 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
 </div>
 
 ## 👨‍💻 Programming Languages
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="48" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="48" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="48" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"></td>
+    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/SQL_icon.png?raw=true" width="48" height="48"></td>
+    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/Smalltalk_icon.png?raw=true" width="48" height="48"></td>
+  </tr>
+</table>
+<!--
 <div display="inline">
   <img src="https://skillicons.dev/icons?i=python" alt="Python Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust Icon" width=48 height=48>
@@ -36,22 +48,42 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/SQL_icon.png" alt="SQL Icon" width=48 height=48>
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/Smalltalk_icon.png" alt="Smalltalk Icon" width=48 height=48>
 </div>
+-->
 
 ## 🛠 Tools
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width=48 height=48></td>
+  </tr>
+</table>
+<!--
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width=48 height=48>
-  <!--<img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>-->
+  <img src="https://github.com/SebaB29/SebaB29/blob/main/img/BluePrism_icon.jpg" alt="Blue Prism Icon" width=48 height=48>
 </div>
+-->
 
 ### 💻 Code Editors & IDEs
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ Icon" width=48 height=48></td>
+    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/GoogleColab_icon.png" alt="Google Colab Icon" width=48 height=48></td>
+  </tr>
+</table>
+<!--
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode Icon" width=48 height=48>
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ Icon" width=48 height=48>
   <img src="https://github.com/SebaB29/SebaB29/blob/main/img/GoogleColab_icon.png" alt="Google Colab Icon" width=48 height=48>
 </div>
+-->
 
 ## 🗃 Projects
 <details>
