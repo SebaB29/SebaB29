@@ -89,52 +89,52 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
 <details>
 <summary><b>🌐 Web & Backend Development</b></summary>
 
-  - [MyFiubaGymBro](https://github.com/SebaB29/MyFiubaGymBro) (Fullstack)
-  - [SistemaDePedidos](https://github.com/SebaB29/SistemaDePedidos) (Fullstack)
-  - [CasinoFIUBA](https://github.com/SebaB29/CasinoFIUBA) (Backend)
+  - [my-fiuba-gym-bro](https://github.com/SebaB29/my-fiuba-gym-bro) (Fullstack)
+  - [sistema-de-pedidos](https://github.com/SebaB29/sistema-de-pedidos) (Fullstack)
+  - [casino-FIUBA](https://github.com/SebaB29/casino-FIUBA) (Backend)
 
 </details>
 
 <details>
 <summary><b>🤖 Data Science & Machine Learning</b></summary>
 
-  - [ReservasHoteles](https://github.com/SebaB29/ReservasHoteles)
-  - [CriticasPeliculas](https://github.com/SebaB29/CriticasPeliculas)
-  - [Titanic](https://github.com/SebaB29/Titanic)
-  - [CursoDataAnalysis-IEEE](https://github.com/SebaB29/CursoDataAnalysis-IEEE)
+  - [reservas-hoteles](https://github.com/SebaB29/reservas-hoteles)
+  - [criticas-peliculas](https://github.com/SebaB29/criticas-peliculas)
+  - [titanic](https://github.com/SebaB29/titanic)
+  - [curso-data-analysis](https://github.com/SebaB29/curso-data-analysis)
 
 </details>
 
 <details>
 <summary><b>🎮 Games</b></summary>
 
-  - [Tetris](https://github.com/SebaB29/Tetris)
-  - [Andypolis](https://github.com/SebaB29/Andypolis)
-  - [Snake](https://github.com/SebaB29/Snake)
-  - [TATETI](https://github.com/SebaB29/TATETI)
-  - [Chase](https://github.com/SebaB29/Chase)
-  - [Hangman](https://github.com/SebaB29/HangmanGame)
+  - [tetris](https://github.com/SebaB29/tetris)
+  - [andypolis](https://github.com/SebaB29/andypolis)
+  - [snake](https://github.com/SebaB29/snake)
+  - [tateti](https://github.com/SebaB29/tateti)
+  - [chase](https://github.com/SebaB29/chase)
+  - [hangman-game](https://github.com/SebaB29/hangman-game)
 
 </details>
 
 <details>
 <summary><b>⚙️ Systems Programming & Software Architecture</b></summary>
 
-  - [SistemasOperativos](https://github.com/SebaB29/SistemasOperativos)
-  - [RustTheForth](https://github.com/SebaB29/RustTheForth)
-  - [RoomRTC](https://github.com/SebaB29/RoomRTC)
-  - [TPOrganizacionDelComputador](https://github.com/SebaB29/TP_OrganizacionDelComputador)
+  - [sistemas-operativos](https://github.com/SebaB29/sistemas-operativos)
+  - [rust-the-forth](https://github.com/SebaB29/rust-the-forth)
+  - [room-RTC](https://github.com/SebaB29/room-RTC)
+  - [tp-organizacion-del-computador](https://github.com/SebaB29/tp-organizacion-del-computador)
 
 </details>
 
 <details>
 <summary><b>🎓 Academic Path & Algorithms</b></summary>
 
-  - [AlgortimosYProgramación-I](https://github.com/SebaB29/Algoritmos_y_Programacion_I)
-  - [AlgortimosYProgramación-III](https://github.com/SebaB29/Algoritmos_y_Programacion_III)
-  - [TeoríaDeAlgoritmos](https://github.com/SebaB29/TeoriaDeAlgortimos)
-  - [TallerDeProgramación](https://github.com/SebaB29/TallerDeProgramacion)
-  - [CursoSQL-UI](https://github.com/SebaB29/CursoSQL-UI)
+  - [algortimos-y-programación-I](https://github.com/SebaB29/algortimos-y-programacion-I)
+  - [algortimos-y-programación-I](https://github.com/SebaB29/algortimos-y-programacion-III)
+  - [teoría-de-algoritmos](https://github.com/SebaB29/teoria-de-algoritmos)
+  - [taller-de-programación](https://github.com/SebaB29/taller-de-programacion)
+  - [curso-sql](https://github.com/SebaB29/curso-sql)
 
 </details>
 
