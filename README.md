@@ -134,6 +134,7 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
   - [algortimos-y-programación-I](https://github.com/SebaB29/algortimos-y-programacion-III)
   - [teoría-de-algoritmos](https://github.com/SebaB29/teoria-de-algoritmos)
   - [taller-de-programación](https://github.com/SebaB29/taller-de-programacion)
+  - [programación-concurrente](https://github.com/SebaB29/programacion-concurrente)
   - [curso-sql](https://github.com/SebaB29/curso-sql)
 
 </details>
