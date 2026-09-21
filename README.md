@@ -104,8 +104,8 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
 <details>
 <summary><b>🎓 Academic Path & Algorithms</b></summary>
 
-  - [algortimos-y-programación-I](https://github.com/SebaB29/algortimos-y-programacion-I)
-  - [algortimos-y-programación-III](https://github.com/SebaB29/algortimos-y-programacion-III)
+  - [algortimos-y-programación-I](https://github.com/SebaB29/algoritmos-y-programacion-I)
+  - [algortimos-y-programación-III](https://github.com/SebaB29/algoritmos-y-programacion-III)
   - [teoría-de-algoritmos](https://github.com/SebaB29/teoria-de-algortimos)
   - [taller-de-programación](https://github.com/SebaB29/taller-de-programacion)
   - [programación-concurrente](https://github.com/SebaB29/programacion-concurrente)
