@@ -1,21 +1,22 @@
 # 👋 Hi there
 
 <p align="center">
-  <img src = "https://github.com/SebaB29/SebaB29/blob/main/img/gifPerfil.gif" 
-    alt = "gif pc en llamas" width="450px" height="200px">
+  <img src="https://github.com/SebaB29/SebaB29/blob/main/img/gifPerfil.gif" 
+    alt="gif pc en llamas" width="450px" height="200px">
 </p>
 
-## 🕵️‍♂ About me
+## 🕵️‍♂️ About me
 
 <p align="justify">
-🚀 Computer Engineering Student @ <b>University of Buenos Aires (FIUBA)</b>
+🚀 Advanced Computer Engineering Student @ <b>University of Buenos Aires (FIUBA)</b>
 
-I am a Computer Engineering student focused on building reliable software with an emphasis on backend development, code quality, and best practices.\
-This profile serves as a documentation of my academic journey at FIUBA, featuring personal research, university coursework, and collaborative projects. My work spans from high-level application logic to low-level systems programming.
+I am a Software Developer focused on building reliable, maintainable applications with a strong emphasis on backend architecture, code quality, and engineering best practices.
 
-* 🛠️ <b>Technical Focus</b>: Backend Architecture, Systems Programming, and Algorithms.
-* ⚙️ <b>Core Principles</b>: Clean code, modularity, and efficient resource management.
-* 🎓 <b>Academic Background</b>: Practical implementations of Operating Systems, Data Structures, and Software Design.
+This profile documents my software development journey, featuring academic projects, personal research, and collaborative software engineering work—spanning from high-level backend systems to low-level systems programming.
+
+* 🛠️ <b>Technical Focus</b>: Backend Architecture, Software Design, Systems Programming, and Data Structures.
+* ⚙️ <b>Core Principles</b>: Clean Code, Modularity, TDD/Testing, and Resource Optimization.
+* 🤝 <b>Workflow & Collaboration</b>: Agile/Scrum practices, version control with Git, and collaborative team development.
 </p>
 
 <br>
@@ -26,25 +27,25 @@ This profile serves as a documentation of my academic journey at FIUBA, featurin
   </a>
 </div>
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages & Technologies
 <table>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="48" height="48"></td>
-    <td><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"></td>
-    <td><img src="https://skillicons.dev/icons?i=java" width="48" height="48"></td>
-    <td><img src="https://skillicons.dev/icons?i=c" width="48" height="48"></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"></td>
-    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/SQL_icon.png?raw=true" width="48" height="48"></td>
-    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/Smalltalk_icon.png?raw=true" width="48" height="48"></td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"></td>
+    <td><img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></td>
+    <td><img src="https://github.com/SebaB29/SebaB29/blob/main/img/SQL_icon.png?raw=true" width="48" height="48" alt="SQL"></td>
   </tr>
 </table>
 
-## 🛠 Tools
+## 🛠 Tools & Frameworks
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=git" alt="Git Icon" width=48 height=48></td>
     <td><img src="https://skillicons.dev/icons?i=github" alt="Github Icon" width=48 height=48></td>
-    <td><img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" width=48 height=48></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" width=48 height=48></td>
     <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" width=48 height=48></td>
   </tr>
 </table>
