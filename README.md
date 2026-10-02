@@ -65,8 +65,8 @@ This profile documents my software development journey, featuring academic proje
 
   - [my-fiuba-gym-bro](https://github.com/SebaB29/my-fiuba-gym-bro) (Fullstack)
   - [sistema-de-pedidos](https://github.com/SebaB29/sistema-de-pedidos) (Fullstack)
-  - [casino-FIUBA](https://github.com/SebaB29/casino-FIUBA) (Backend)
   - [chat-backend-service](https://github.com/SebaB29/chat-backend-service) (Backend)
+  <!--- [casino-FIUBA](https://github.com/SebaB29/casino-FIUBA) (Backend)-->
 
 </details>
 
